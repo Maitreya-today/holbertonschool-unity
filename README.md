@@ -1,2 +1,1 @@
-# holbertonschool-unity
-animation take 2
+readme for ainmation take 2
