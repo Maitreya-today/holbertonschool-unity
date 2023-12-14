@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0fe9dd90528768c4c9e3a77e6657fa5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lvl1Button: {instanceID: 0}
+  - lvl2Button: {instanceID: 0}
+  - lvl3Button: {instanceID: 0}
+  - player: {fileID: 5791248197017790314, guid: 3e34f56d5a79f34469d2e6ce682ac839,
+      type: 3}
+  - invertY: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
